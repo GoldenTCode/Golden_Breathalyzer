@@ -1,0 +1,5 @@
+F:\Golden Development\Pre-made Files\FiveM\Golden_Breathalyzer\Build\Client\Golden.Breathalyzer.Client.net.dll
+F:\Golden Development\Pre-made Files\FiveM\Golden_Breathalyzer\Golden.Breathalyzer.Client\obj\Release\Golden.Breathalyzer.Client.csproj.AssemblyReference.cache
+F:\Golden Development\Pre-made Files\FiveM\Golden_Breathalyzer\Golden.Breathalyzer.Client\obj\Release\Golden.Breathalyzer.Client.csproj.CoreCompileInputs.cache
+F:\Golden Development\Pre-made Files\FiveM\Golden_Breathalyzer\Golden.Breathalyzer.Client\obj\Release\Golden.Breathalyzer.Client.csproj.CopyComplete
+F:\Golden Development\Pre-made Files\FiveM\Golden_Breathalyzer\Golden.Breathalyzer.Client\obj\Release\Golden.Breathalyzer.Client.net.dll

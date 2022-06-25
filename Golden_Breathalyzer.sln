@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Golden.Breathalyzer.Client", "Golden.Breathalyzer.Client\Golden.Breathalyzer.Client.csproj", "{AC327260-4423-413E-88BB-2489A11A92DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Golden.Breathalyzer.Server", "Golden.Breathalyzer.Server\Golden.Breathalyzer.Server.csproj", "{17341696-5D80-452F-BC69-C66186037E85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC327260-4423-413E-88BB-2489A11A92DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC327260-4423-413E-88BB-2489A11A92DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC327260-4423-413E-88BB-2489A11A92DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC327260-4423-413E-88BB-2489A11A92DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17341696-5D80-452F-BC69-C66186037E85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17341696-5D80-452F-BC69-C66186037E85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17341696-5D80-452F-BC69-C66186037E85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17341696-5D80-452F-BC69-C66186037E85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3083D3FA-80CC-4AE2-9A7E-54A506A46053}
+	EndGlobalSection
+EndGlobal
